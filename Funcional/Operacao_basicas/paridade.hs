@@ -1,0 +1,1 @@
+paridade xs = if mod (length $ filter (==True) xs) 2 == 0 then False else True 

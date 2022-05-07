@@ -1,0 +1,1 @@
+euler x = sum $ [y|y<-[1..x-1],mod y 3 == 0 || mod y 5 == 0]
