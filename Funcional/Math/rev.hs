@@ -1,0 +1,1 @@
+rev x = read(reverse $ show x)::Int

@@ -1,0 +1,1 @@
+indices v xs = map snd (filter (\x -> (fst x)==v) (zip xs [0..]))
