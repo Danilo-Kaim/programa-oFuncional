@@ -1,0 +1,14 @@
+Feedback da disciplina de Programação Funcional
+Aluno: Danilo Carneiro Teles
+Mátricula: 470444
+
+Questões: todas as questões solicitadas foram feitas.
+Dúvidas e ajudas: Tive dificuldade com o material de Maybe Type porém como foram
+poucas questões não passei tanto tempo assim fora esse os exercicios de parte de 
+Infinite e recursão também deram um trabalho,mas deu certo.Sobre minha maior dúvida
+foi saber usar fold(sempre acabo optando pela recursão, então nao acabei usando tanto).
+Sobre ajudas, teve um exercícios que tava de saco cheio e só peguei na cara dura mesmo,
+mas o resto eu fiz sozinho no meu próprio esforço,teve duas ou 3 exercícios que eu tava
+empacado e tive que ver dos meus colegas , porém não foram copiados só vi mais ou mesmo 
+como ele fez pra mim ter uma ideia do que poderia ser usado pra ser feito,como usar uma
+recursão dessa forma ou um uso de guardas.
